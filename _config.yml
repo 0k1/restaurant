@@ -7,7 +7,7 @@ baseurl: "/restaurant"
 
 # Color settings
 color:
-  primary-dark: '#000000'
+  primary-dark: '#242f36'
   links: '#219ab3'
 
 # Footer settings
@@ -16,15 +16,9 @@ footer: anamika.com.au
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url:
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
 
 # Build settings
 markdown: kramdown
